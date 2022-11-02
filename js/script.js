@@ -6,7 +6,7 @@ createApp({
     return{
       giocatore: `Del Piero`,
       squadra: `Juventus`,
-      coloraClasse: `verde`
+      coloraClasse: ``
     }
   }
 }).mount(`#app`)
